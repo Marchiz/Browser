@@ -1,0 +1,13 @@
+C:\Users\Marchiz\source\repos\Browser1\Browser1\bin\Debug\Browser1.exe.config
+C:\Users\Marchiz\source\repos\Browser1\Browser1\bin\Debug\Browser1.exe
+C:\Users\Marchiz\source\repos\Browser1\Browser1\bin\Debug\Browser1.pdb
+C:\Users\Marchiz\source\repos\Browser1\Browser1\bin\Debug\Browser1.xml
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.vbprojAssemblyReference.cache
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.Form1.resources
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.Resources.resources
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.vbproj.GenerateResource.cache
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.vbproj.CoreCompileInputs.cache
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.exe
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.xml
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.pdb
+C:\Users\Marchiz\source\repos\Browser1\Browser1\obj\Debug\Browser1.Form2.resources
